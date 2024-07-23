@@ -14,26 +14,6 @@
 <li>📧 Reach out to me: <a href="mailto:hdonga1@student.gsu.edu" target="_blank"> hdonga1@student.gsu.edu</a></li>
 </ul>
 
-## 🚀 &nbsp;Languages & Frameworks
-<div>
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/java/java.svg" alt="Java" title="Java" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/spring/spring.svg" alt="Spring" title="Spring" height="50px"/> 
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="Javascript" title="Javascript" height="50px"/> 
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/html/html.svg" alt="html" title="HTML" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/css/css.svg" alt="css" title="CSS" height="50px"/> 
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/node/node.svg" alt="node" title="Node" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/python/python.svg" alt="python" title="Python" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/react/react.svg" alt="React" title="React" height="50px"/>
-<img align="left" src="https://raw.githubusercontent.com/harshil2120/README_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" title="Bootstrap" height="50px"/> 
-<img align="left" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="shadcnUI" title="shadcnUI" height="45px"/>
-<img align="left" src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="NextJS" title="NextJS" height="45px"/> 
-<img align="left" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="TailwindCSS" title="TailwindCSS" height="40px" width="55px"/>
-</div>
-<br>
-<br>
-<br>
-
-
 ## 🗃️ &nbsp;Databases
 <div>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="70px" width="70px"/>
